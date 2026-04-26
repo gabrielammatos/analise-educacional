@@ -101,4 +101,4 @@ Os dados utilizados são **simulados** com estrutura inspirada nos microdados of
 ## 👩‍💻 Autora
 
 **Gabriela da Matta Matos** — Analista de Dados  
-[LinkedIn](https://linkedin.com) · matos.gabrielaa@gmail.com
+[LinkedIn]([https://linkedin.com/](https://www.linkedin.com/in/gabriela-matos-53abb417b/)) · matos.gabrielaa@gmail.com
